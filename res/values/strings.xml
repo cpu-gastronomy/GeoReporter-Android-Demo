@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GeoReporterActivity!</string>
+    <string name="app_name">GeoReporter</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_report">Report</string>
+    <string name="menu_myreports">My Reports</string>
+    <string name="menu_reportto">Report To</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_settings_info">Personal Information</string>
+    <string-array name="servers">
+        <item>Boston, MA</item>
+        <item>Bloomington, IN</item>
+    </string-array>
+    <string-array name="groups">
+        <item>General</item>
+        <item>Snow</item>
+    </string-array>
+    <string-array name="general_services">
+        <item>Pothole</item>
+        <item>Streetlight</item>
+        <item>Graffiti</item>
+        <item>Sidewalk Patch</item>
+        <item>Damaged Sign</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="snow_services">
+        <item>Roadway Plowing/Sanding</item>
+        <item>Unshoveled Sidewalk</item>
+    </string-array>
+    
+</resources>
